@@ -1,0 +1,5 @@
+C:\Users\Igor\source\repos\laba_5\Debug\laba_5.vcxprojAssemblyReference.cache
+C:\Users\Igor\source\repos\laba_5\Debug\laba_5.MyForm.resources
+C:\Users\Igor\source\repos\laba_5\Debug\laba_5.vcxproj.GenerateResource.cache
+C:\Users\Igor\source\repos\laba_5\Debug\laba_5.exe
+C:\Users\Igor\source\repos\laba_5\Debug\laba_5.pdb
